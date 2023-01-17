@@ -6,6 +6,8 @@ Software engineering project, spring 2023 | University of Helsinki
 
 - [Product Backlog](https://docs.google.com/spreadsheets/d/1lEG_UPTe0Wt0WwdRCMGUpRGtIz5WN1GoaQMLyPpHVgc/edit?usp=sharing)
 
+- [Working hours record](https://helsinkifi-my.sharepoint.com/:x:/g/personal/kajy_ad_helsinki_fi/EVqaF5z1-9pBt4fEqOvs6E0B5plAijWjgKxFrGQQqV2kSg?e=mztyYP)
+
 ## Repositories
 
 - [Frontend mobile application](https://github.com/marjanpoimijat/berry-picker-tracker)
