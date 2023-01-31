@@ -4,7 +4,7 @@ Software engineering project, spring 2023 | University of Helsinki
 
 - [Demonstration of the app](https://hy-ohtu-syksy-22-bpt.github.io/berry-picker-tracker.github.io/)
 
-- [Product Backlog](https://docs.google.com/spreadsheets/d/1lEG_UPTe0Wt0WwdRCMGUpRGtIz5WN1GoaQMLyPpHVgc/edit?usp=sharing)
+- [Product Backlog](https://github.com/orgs/marjanpoimijat/projects?query=is%3Aopen)
 
 - [Working hours record](https://helsinkifi-my.sharepoint.com/:x:/g/personal/kajy_ad_helsinki_fi/EVqaF5z1-9pBt4fEqOvs6E0B5plAijWjgKxFrGQQqV2kSg?e=mztyYP)
 
